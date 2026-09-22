@@ -1,8 +1,8 @@
 <<<<<<< HEAD
 - 👋 Hi, I’m @Tarik-G-web
 - 👀 I’m passionate about **web development**, especially crafting beautiful and responsive user interfaces.
-- 🌱 I’m currently a student at **Mekelle University**, expanding my skills in front-end development and beyond.
-- 💞️ I’m looking to collaborate on exciting **front-end web development projects** or contribute to open-source.
+- 🌱 I’m Graduatd in **Mekelle University** in 2025 by Electrical And Computer Engineering with GPA 3.74 & Exit exam score of 76%, now I expanding my skills in Full-Stack(MERN) development and beyond.
+- 💞️ I’m looking to collaborate on exciting **front-end & back-end web development projects** or contribute to open-source.
 - 📫 How to reach me:
   - Email: tarikg19922004@gmail.com
   - phone number:+251914837078
